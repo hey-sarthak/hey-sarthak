@@ -56,8 +56,8 @@ Small web applications and experiments while learning frontend development.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hey-sarthak&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="Sarthak's GitHub statistics"
+    src="https://github-stats-extended.vercel.app/api?username=hey-sarthak&show_icons=true&theme=transparent&hide_border=true"
+    alt="Sarthak's GitHub stats"
   />
 </p>
 
