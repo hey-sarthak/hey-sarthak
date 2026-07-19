@@ -52,12 +52,4 @@ Small web applications and experiments while learning frontend development.
 - GitHub: **github.com/hey-sarthak**
 
 ---
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hey-sarthak/hey-sarthak/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="Sarthak's GitHub statistics"
-  />
-</p>
 ⭐ Thanks for visiting my profile!
