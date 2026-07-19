@@ -1,35 +1,64 @@
-# Hi, I'm Sarthak 👋
+<h1 align="center">Hey 👋, I'm Sarthak</h1>
 
-Student developer building bots,ai automation tools, and web applications.
+<p align="center">
+Student Developer from India 🇮🇳<br>
+Building bots, automation tools and web applications with Python.
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🐍 Working with Python
-- 🌐 Learning JavaScript and web development
-- 🤖 Building Discord bots and automation tools
-- 🎯 Goal: Become a professional software engineer
+- 🔭 Currently working on **Python Clipperz**
+- 🤖 Building Discord bots & automation tools
+- 🌱 Learning **JavaScript, Backend & Git , Python, C++**
+- 🎯 Goal: Become a Software Developer
 
-## 🛠️ Technologies
+---
+
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
-- **Python Clipperz** — A Python-based livestream clipping bot
+### 🐍 Python Clipperz
+A Python-based livestream clipping bot designed for fast and reliable clip generation.
 
+### 🤖 Discord Bots
+Automation, moderation and utility bots built using Python.
+
+### 🌐 Web Projects
+Small web applications and experiments while learning frontend development.
+
+---
+
+## 📈 Currently Learning
+
+- Python Advanced
+- JavaScript
+- APIs
+- Git & GitHub
+- SQL
+
+---
+
+## 📫 Connect
+
+- GitHub: **github.com/hey-sarthak**
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hey-sarthak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-sarthak&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hey-sarthak&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="Sarthak's GitHub statistics"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hey-sarthak&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hey-sarthak&label=Profile%20Views&style=flat" />
-</p>
+⭐ Thanks for visiting my profile!
