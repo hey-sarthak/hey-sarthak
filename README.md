@@ -9,7 +9,7 @@ Building bots, automation tools and web applications with Python.
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Python Clipperz**
+- 🔭 Currently working on **Python Automations**
 - 🤖 Building Discord bots & automation tools
 - 🌱 Learning **JavaScript, Backend & Git , Python, C++**
 - 🎯 Goal: Become a Software Developer
